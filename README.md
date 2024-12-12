@@ -15,8 +15,6 @@ Hello, I'm a passionate and dedicated full-stack web and app developer with a st
 
 ## Skills & Interests
 
-## Skills & Interests
-
 ### Programming Languages:
 
 - 🟨 **JavaScript**
